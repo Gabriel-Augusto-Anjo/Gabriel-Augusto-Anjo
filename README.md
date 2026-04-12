@@ -1,7 +1,7 @@
-## Olá! Eu sou Gabriel Augusto, atualmente no caminho de ser desenvolvedor full-stack.
+## Olá! Eu sou Gabriel Augusto, atualmente cursando Banco de dados e estou no caminho para as áreas de analise de dados ou banck-end.
 
-- 🔭 Hoje trabalho como estagiário na justiça eleitoral
-- 🌱 Estudando full-stack
+- 🔭 Atualmente em busca de estágio na área da tecnologia
+- 🌱 Estudando back-end e Dados
 
 ### Linguagens
 
