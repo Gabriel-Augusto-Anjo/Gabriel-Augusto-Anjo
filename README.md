@@ -3,11 +3,11 @@
 - 🔭 Atualmente em busca de estágio na área da tecnologia
 - 🌱 Estudando Dados e construção de Banco de Dados
 
-### Linguagem e Bibliotecas Principais
+## Linguagem e Bibliotecas Principais
 
 - Python (Matplotlib, Pandas, Seaborn, Numpy)
 
-### Habilidades  
+## Habilidades  
 
 - SQL (PostgreSQL, MySQL)
 - Modelagem de Banco de Dados
@@ -15,7 +15,7 @@
 - Algoritimos de Machine Learning com uso do sckit-learn (Regressão Linear/Múltipla, Arvore de Regressão, KNN, Floresta Aleatoria)
 - Estatística
   
-### Estatísticas
+## Estatísticas
 
 <div style="display:block">
  <img 
@@ -32,7 +32,7 @@
     />
 </div>
 
-  ### Contatos e Redes Sociais
+  ## Contatos e Redes Sociais
 
   <div>
   <a href="https://instagram.com/gabriel.augusto.anjo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
