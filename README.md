@@ -1,14 +1,20 @@
-## Olá! Eu sou Gabriel Augusto, atualmente cursando Banco de dados e estou no caminho para as áreas de analise de dados ou banck-end.
+## Olá! Meu nome é Gabriel Augusto, atualmente cursando Banco de dados e estou no caminho para me tornar engenheiro de dados ou cientista de dados.
 
 - 🔭 Atualmente em busca de estágio na área da tecnologia
-- 🌱 Estudando back-end e Dados
+- 🌱 Estudando Dados e construção de Banco de Dados
 
-### Linguagens
+### Linguagem e Bibliotecas Principais
 
-- Java
-- C#
-- Python
+- Python (Matplotlib, Pandas, Seaborn, Numpy)
 
+### Habilidades  
+
+- SQL (PostgreSQL, MySQL)
+- Modelagem de Banco de Dados
+- Git e GitHub
+- Algoritimos de Machine Learning com uso do sckit-learn (Regressão Linear/Múltipla, Arvore de Regressão, KNN, Floresta Aleatoria)
+- Estatística
+  
 ### Estatísticas
 
 <div style="display:block">
