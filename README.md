@@ -5,7 +5,7 @@
 
 ## Linguagem e Bibliotecas Principais
 
-- Python (Matplotlib, Pandas, Seaborn, Numpy)
+- Python (Matplotlib, Pandas, Seaborn, Numpy, Sckit-Learn)
 
 ## Habilidades  
 
