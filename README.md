@@ -1,7 +1,8 @@
-## Olá! Meu nome é Gabriel Augusto, atualmente cursando Banco de dados e estou no caminho para me tornar engenheiro de dados ou cientista de dados.
+## Olá! Meu nome é Gabriel Augusto, atualmente cursando Banco de dados e estou no caminho para me tornar engenheiro de dados ou DBA.
 
-- 🔭 Atualmente em busca de estágio na área da tecnologia
-- 🌱 Estudando Engenharia Dados e construção de Banco de Dados
+* 🔭 Atualmente em busca de estágio na área da tecnologia
+* 🌱 Estudando Engenharia Dados e construção de Banco de Dados
+* 🎓 Faculdade IPOG - Instituto de Pós graduação e graduação
 
 ## Linguagem e Bibliotecas Principais
 
