@@ -10,11 +10,12 @@
 
 ## Habilidades  
 
-- SQL (PostgreSQL, MySQL)
-- Modelagem de Banco de Dados
-- Git e GitHub
-- Algoritimos de Machine Learning com uso do sckit-learn (Regressão Linear/Múltipla, Arvore de Regressão, KNN, Floresta Aleatoria)
-- Estatística
+* SQL (PostgreSQL, MySQL)
+* Modelagem de Banco de Dados
+* Git e GitHub
+* Algoritimos de Machine Learning com uso do sckit-learn (Regressão Linear/Múltipla, Arvore de Regressão, KNN, Floresta Aleatoria)
+* Estatística
+* Estrutura de dados
   
 ## Estatísticas
 
